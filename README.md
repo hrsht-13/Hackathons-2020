@@ -1,2 +1,1 @@
-# Practice_problems
-### These are all ML/Time-Seires related practice problems done on various platforms.
+### It contains notebooks of Machine Learning Hackathons participated at various platforms such as MAcchineHack/DataHack/HackerEarth, etc.
